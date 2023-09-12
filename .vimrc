@@ -11,7 +11,7 @@ set noshowmode
 set noshowmode
 set laststatus=1
 set wildmenu
-
+set wildoptions=pum
 
 call plug#begin('~/.vim/autoload')
 
